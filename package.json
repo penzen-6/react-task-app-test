@@ -2,7 +2,7 @@
   "name": "react-task-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://penzen-6/github.io/react-task-app-test",
+  "homepage": "https://penzen-6/github.io/react-task-app-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
